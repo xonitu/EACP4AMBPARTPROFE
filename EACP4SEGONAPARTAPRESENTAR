@@ -2,7 +2,7 @@ package eac4p222231s;
 
 import java.util.Scanner;
 
-public class EAC4P222231S2 {
+public class ASXM3B2_EAC4P2_Hidalgo_S {
 
 	static final int ID_USUARI = 0;
 	static final int ID_DNI = 1;
@@ -12,7 +12,7 @@ public class EAC4P222231S2 {
 	Scanner lector = new Scanner(System.in);
 
 	public static void main(String[] args) {
-		EAC4P222231S2 prg = new EAC4P222231S2();
+		ASXM3B2_EAC4P2_Hidalgo_S prg = new ASXM3B2_EAC4P2_Hidalgo_S();
 		prg.inici();
 	}
 
